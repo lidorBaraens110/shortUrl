@@ -1,7 +1,11 @@
 ## short-URL
 
 open your terminal,
-clone the project.
+
+clone the project.---> git clone https://github.com/lidorBaraens110/shortUrl.git
+
+cd to the dirctory
+
 
 # with docker
 
